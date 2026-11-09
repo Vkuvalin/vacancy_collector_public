@@ -55,8 +55,11 @@
 
 ### Рабочий стол вакансий
 
-<!-- IMAGE_SLOT_01: vacancy_workspace_v04_light.png | Загрузить оригинал на GitHub и вставить Markdown-image URL вместо следующей строки. -->
-> **Место для изображения:** `vacancy_workspace_v04_light.png` — основной Workspace: таблица вакансий, фильтры, оценки и карточка выбранной позиции.
+<summary><strong>Основной Workspace: таблица вакансий, фильтры, оценки и карточка выбранной позиции</strong></summary>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/74d3d5d6-547f-4ea7-b119-3853a60a3a5b"><img src="https://github.com/user-attachments/assets/74d3d5d6-547f-4ea7-b119-3853a60a3a5b" alt="Подробный отчёт об атрибуции предмета" width="100%" /></a>
+</p>
 
 <details>
 <summary><strong>Профессиональный профиль и параметры поиска</strong></summary>
