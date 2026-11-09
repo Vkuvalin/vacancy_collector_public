@@ -55,7 +55,7 @@
 
 ### Рабочий стол вакансий
 
-<summary><strong>Основной Workspace: таблица вакансий, фильтры, оценки и карточка выбранной позиции</strong></summary>
+<strong>Основной Workspace:</strong> таблица вакансий, фильтры, оценки и карточка выбранной позиции
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/74d3d5d6-547f-4ea7-b119-3853a60a3a5b"><img src="https://github.com/user-attachments/assets/74d3d5d6-547f-4ea7-b119-3853a60a3a5b" alt="Подробный отчёт об атрибуции предмета" width="100%" /></a>
