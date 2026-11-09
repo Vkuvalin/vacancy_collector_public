@@ -55,10 +55,10 @@
 
 ### Рабочий стол вакансий
 
-<strong>Основной Workspace:</strong> таблица вакансий, фильтры, оценки и карточка выбранной позиции
+<strong>Основной Workspace:</strong> таблица вакансий, фильтры, оценки и карточка выбранной позиции.
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/74d3d5d6-547f-4ea7-b119-3853a60a3a5b"><img src="https://github.com/user-attachments/assets/74d3d5d6-547f-4ea7-b119-3853a60a3a5b" alt="Подробный отчёт об атрибуции предмета" width="100%" /></a>
+  <a href="https://github.com/user-attachments/assets/74d3d5d6-547f-4ea7-b119-3853a60a3a5b"><img src="https://github.com/user-attachments/assets/74d3d5d6-547f-4ea7-b119-3853a60a3a5b" alt="Основной Workspace: таблица вакансий, фильтры, оценки и карточка выбранной позиции." width="100%" /></a>
 </p>
 
 <details>
@@ -66,13 +66,19 @@
 
 ### Профессиональный профиль
 
-<!-- IMAGE_SLOT_02: B_profile_editor_light.png -->
-> **Место для изображения:** `B_profile_editor_light.png` — редактируемый профиль, сформированный на основе исходных материалов.
+<strong>Профессиональный профиль:</strong> редактируемый профиль, сформированный на основе исходных материалов.
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/5225af5d-f6ed-4189-ab05-7a76aadb4539"><img src="https://github.com/user-attachments/assets/5225af5d-f6ed-4189-ab05-7a76aadb4539" alt="Профессиональный профиль: редактируемый профиль, сформированный на основе исходных материалов." width="100%" /></a>
+</p>
 
 ### Поисковая кампания
 
-<!-- IMAGE_SLOT_03: D_search_campaign_light.png -->
-> **Место для изображения:** `D_search_campaign_light.png` — цели поиска и управляемые условия кампании.
+<strong>Поисковая кампания:</strong> цели поиска и управляемые условия кампании.
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/63770ad7-81ee-49c4-b158-772218bc3af8"><img src="https://github.com/user-attachments/assets/63770ad7-81ee-49c4-b158-772218bc3af8" alt="Поисковая кампания: цели поиска и управляемые условия кампании." width="100%" /></a>
+</p>
 
 </details>
 
@@ -117,8 +123,15 @@
 <details>
 <summary><strong>Визуальная концепция Market Analytics | общий обзор</strong></summary>
 
-<!-- IMAGE_SLOT_04: contact_market_analytics_v02_accepted.jpg | Общая композиция исторических аналитических референсов. -->
-> **Место для изображения:** `contact_market_analytics_v02_accepted.jpg` — единый коллаж концептов аналитики: обзор рынка, компании и технологии, AI-исследования, профиль и рынок.
+Коллажи концептов аналитики: обзор рынка, компании и технологии, AI-исследования, профиль и рынок.
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/13e3b0a0-a258-44b4-a284-9e1101bf4c04"><img src="https://github.com/user-attachments/assets/13e3b0a0-a258-44b4-a284-9e1101bf4c04" alt="" width="100%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/29c5c52a-567d-4c2c-a5b8-754e4ec33a01"><img src="https://github.com/user-attachments/assets/29c5c52a-567d-4c2c-a5b8-754e4ec33a01" alt="" width="100%" /></a>
+</p>
 
 *Иллюстрация возможного направления продукта. Графики и показатели на референсах демонстрационные.*
 
