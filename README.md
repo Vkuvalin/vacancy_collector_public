@@ -77,7 +77,6 @@
 ### Поисковая кампания
 
 <strong>Поисковая кампания:</strong> цели поиска и управляемые условия кампании.
-<img width="3840" height="1993" alt="Поисковой профиль" src="" />
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/97659e25-2198-48e5-8eb9-69bdf34abe0d"><img src="https://github.com/user-attachments/assets/97659e25-2198-48e5-8eb9-69bdf34abe0d" alt="Поисковая кампания: цели поиска и управляемые условия кампании." width="100%" /></a>
