@@ -56,7 +56,6 @@
 ### Рабочий стол вакансий
 
 <strong>Основной Workspace:</strong> таблица вакансий, фильтры, оценки и карточка выбранной позиции.
-<img width="1920" height="1038" alt="Рабочий стол вакансий" src="" />
 
 <p align="center">
   <a href="https://github.com/user-attachments/assets/c5bcca2d-bccb-436d-bdf9-ec67d112aef4"><img src="https://github.com/user-attachments/assets/c5bcca2d-bccb-436d-bdf9-ec67d112aef4" alt="Основной Workspace: таблица вакансий, фильтры, оценки и карточка выбранной позиции." width="100%" /></a>
@@ -66,7 +65,6 @@
 <summary><strong>Профессиональный профиль и параметры поиска</strong></summary>
 
 ### Профессиональный профиль
-<img width="1920" height="1036" alt="Профессиональный контекст" src="" />
 
 <strong>Профессиональный профиль:</strong> редактируемый профиль, сформированный на основе исходных материалов.
 
