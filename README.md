@@ -58,7 +58,7 @@
 <strong>Основной Workspace:</strong> таблица вакансий, фильтры, оценки и карточка выбранной позиции.
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/74d3d5d6-547f-4ea7-b119-3853a60a3a5b"><img src="https://github.com/user-attachments/assets/74d3d5d6-547f-4ea7-b119-3853a60a3a5b" alt="Основной Workspace: таблица вакансий, фильтры, оценки и карточка выбранной позиции." width="100%" /></a>
+  <a href="https://github.com/user-attachments/assets/cd28419d-a9e1-4cbf-8cbd-b2795741e548"><img src="https://github.com/user-attachments/assets/cd28419d-a9e1-4cbf-8cbd-b2795741e548" alt="Основной Workspace: таблица вакансий, фильтры, оценки и карточка выбранной позиции." width="100%" /></a>
 </p>
 
 <details>
@@ -69,7 +69,7 @@
 <strong>Профессиональный профиль:</strong> редактируемый профиль, сформированный на основе исходных материалов.
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/5225af5d-f6ed-4189-ab05-7a76aadb4539"><img src="https://github.com/user-attachments/assets/5225af5d-f6ed-4189-ab05-7a76aadb4539" alt="Профессиональный профиль: редактируемый профиль, сформированный на основе исходных материалов." width="100%" /></a>
+  <a href="https://github.com/user-attachments/assets/d811a6e4-b3f4-4103-bc42-65cbea3e2e07"><img src="https://github.com/user-attachments/assets/d811a6e4-b3f4-4103-bc42-65cbea3e2e07" alt="Профессиональный профиль: редактируемый профиль, сформированный на основе исходных материалов." width="100%" /></a>
 </p>
 
 ### Поисковая кампания
@@ -77,10 +77,20 @@
 <strong>Поисковая кампания:</strong> цели поиска и управляемые условия кампании.
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/63770ad7-81ee-49c4-b158-772218bc3af8"><img src="https://github.com/user-attachments/assets/63770ad7-81ee-49c4-b158-772218bc3af8" alt="Поисковая кампания: цели поиска и управляемые условия кампании." width="100%" /></a>
+  <a href="https://github.com/user-attachments/assets/afc81312-0eda-4617-8663-3712c16a5af6"><img src="https://github.com/user-attachments/assets/afc81312-0eda-4617-8663-3712c16a5af6" alt="Поисковая кампания: цели поиска и управляемые условия кампании." width="100%" /></a>
 </p>
 
 </details>
+
+### Как работает продукт (изменить позже | нормально описать и оформить)
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/f6e983ac-4c39-4915-a1e0-31dbd3a90ada"><img src="https://github.com/user-attachments/assets/f6e983ac-4c39-4915-a1e0-31dbd3a90ada" alt="Лаунчер" width="100%" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/bff27fea-6fea-4501-b976-8b691000fadd"><img src="https://github.com/user-attachments/assets/bff27fea-6fea-4501-b976-8b691000fadd" alt="Мониторинг" width="100%" /></a>
+</p>
 
 <a id="workflow"></a>
 
