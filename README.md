@@ -56,28 +56,31 @@
 ### Рабочий стол вакансий
 
 <strong>Основной Workspace:</strong> таблица вакансий, фильтры, оценки и карточка выбранной позиции.
+<img width="1920" height="1038" alt="Рабочий стол вакансий" src="" />
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/cd28419d-a9e1-4cbf-8cbd-b2795741e548"><img src="https://github.com/user-attachments/assets/cd28419d-a9e1-4cbf-8cbd-b2795741e548" alt="Основной Workspace: таблица вакансий, фильтры, оценки и карточка выбранной позиции." width="100%" /></a>
+  <a href="https://github.com/user-attachments/assets/c5bcca2d-bccb-436d-bdf9-ec67d112aef4"><img src="https://github.com/user-attachments/assets/c5bcca2d-bccb-436d-bdf9-ec67d112aef4" alt="Основной Workspace: таблица вакансий, фильтры, оценки и карточка выбранной позиции." width="100%" /></a>
 </p>
 
 <details>
 <summary><strong>Профессиональный профиль и параметры поиска</strong></summary>
 
 ### Профессиональный профиль
+<img width="1920" height="1036" alt="Профессиональный контекст" src="" />
 
 <strong>Профессиональный профиль:</strong> редактируемый профиль, сформированный на основе исходных материалов.
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/d811a6e4-b3f4-4103-bc42-65cbea3e2e07"><img src="https://github.com/user-attachments/assets/d811a6e4-b3f4-4103-bc42-65cbea3e2e07" alt="Профессиональный профиль: редактируемый профиль, сформированный на основе исходных материалов." width="100%" /></a>
+  <a href="https://github.com/user-attachments/assets/c4ef2088-206f-455a-a935-4e6e70da1230"><img src="https://github.com/user-attachments/assets/c4ef2088-206f-455a-a935-4e6e70da1230" alt="Профессиональный профиль: редактируемый профиль, сформированный на основе исходных материалов." width="100%" /></a>
 </p>
 
 ### Поисковая кампания
 
 <strong>Поисковая кампания:</strong> цели поиска и управляемые условия кампании.
+<img width="3840" height="1993" alt="Поисковой профиль" src="" />
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/afc81312-0eda-4617-8663-3712c16a5af6"><img src="https://github.com/user-attachments/assets/afc81312-0eda-4617-8663-3712c16a5af6" alt="Поисковая кампания: цели поиска и управляемые условия кампании." width="100%" /></a>
+  <a href="https://github.com/user-attachments/assets/97659e25-2198-48e5-8eb9-69bdf34abe0d"><img src="https://github.com/user-attachments/assets/97659e25-2198-48e5-8eb9-69bdf34abe0d" alt="Поисковая кампания: цели поиска и управляемые условия кампании." width="100%" /></a>
 </p>
 
 </details>
