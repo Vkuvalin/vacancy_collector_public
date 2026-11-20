@@ -1,12 +1,30 @@
 <a id="top"></a>
 
+<div align="center">
+
 # Vacancy Collector
 
-## Вакансии из шести источников. Приоритеты — по вашему опыту.
+<a id="вакансии-из-шести-источников-приоритеты--по-вашему-опыту"></a>
+
+**Вакансии из шести источников. Приоритеты — по вашему опыту.**
+
+![Applied AI](https://img.shields.io/badge/Applied_AI-3e6c9b?style=flat-square)
+![LLM Workflows](https://img.shields.io/badge/LLM_Workflows-53538b?style=flat-square)
+![Product Engineering](https://img.shields.io/badge/Product_Engineering-357a73?style=flat-square)
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+[Продукт](#product) | [Реальные экраны](#interface) | [Как работает](#workflow) | [Инженерные решения](PRESENTATION.md#engineering) | [Развитие сервиса](#analytics) | [Мой вклад](#ownership)
+
+</div>
+
+---
 
 **Персональный AI-инструмент поиска работы: от резюме и карьерной цели до объяснимой подборки и решений об откликах.**
-
-[Продукт](#product) · [Реальные экраны](#interface) · [Как работает](#workflow) · [Инженерные решения](PRESENTATION.md#engineering) · [Развитие сервиса](#analytics) · [Мой вклад](#ownership)
 
 **Работающее локальное Windows-приложение**, которое я использую для собственного поиска работы. Оно объединяет профессиональный профиль, поиск на нескольких площадках, проверку и хранение объявлений, персональную AI-оценку и рабочую подборку в браузере.
 
@@ -14,7 +32,7 @@
 
 [![Рабочая подборка Vacancy Collector: вакансии, персональные оценки, фильтры и подробная карточка](https://github.com/user-attachments/assets/c5bcca2d-bccb-436d-bdf9-ec67d112aef4)](https://github.com/user-attachments/assets/c5bcca2d-bccb-436d-bdf9-ec67d112aef4)
 
-*Реальный экран запущенного приложения. Таблица, оценка и исходное описание вакансии доступны в одном рабочем пространстве. [Посмотреть весь сценарий →](DEMO.md)*
+*Реальный экран запущенного приложения. Таблица, оценка и исходное описание вакансии доступны в одном рабочем пространстве. [Посмотреть весь сценарий](DEMO.md)*
 
 ### Уже работает с накопленными данными
 
@@ -65,7 +83,7 @@
 | [Windows launcher](DEMO.md#launcher) | Запускать приложение и проверять состояние его компонентов |
 | [Мониторинг](DEMO.md#monitoring) | Видеть, что собрано, подготовлено и оценено, и наблюдать ход обработки |
 
-**[Открыть демонстрацию с пояснениями к каждому экрану →](DEMO.md)**
+**[Открыть демонстрацию с пояснениями к каждому экрану](DEMO.md)**
 
 <a id="workflow"></a>
 
@@ -95,7 +113,7 @@ flowchart TB
 
 **AI отвечает за содержательный анализ, приложение — за данные и выполнение операций, человек — за намерения и решения.** Отметка об отклике фиксирует действие пользователя; автоматической отправки работодателю в текущем продукте нет.
 
-[Подробный пользовательский путь →](PRESENTATION.md#journey) · [Как устроена оценка →](PRESENTATION.md#evaluation)
+[Подробный пользовательский путь](PRESENTATION.md#journey) | [Как устроена оценка](PRESENTATION.md#evaluation)
 
 <a id="engineering"></a>
 
@@ -109,7 +127,7 @@ flowchart TB
 
 **Доработка на реальной нагрузке.** После практического использования система получила центральную PostgreSQL, параллельную обработку, подготовку результатов в фоне, более короткие транзакции и ограниченные чтения для интерфейса. Launcher и мониторинг стали частью ежедневной работы с продуктом.
 
-[Разбор ситуаций, решений и компромиссов →](PRESENTATION.md#engineering) · [Логическая архитектура →](PRESENTATION.md#architecture)
+[Разбор ситуаций, решений и компромиссов](PRESENTATION.md#engineering) | [Логическая архитектура](PRESENTATION.md#architecture)
 
 <a id="analytics"></a>
 
@@ -130,23 +148,17 @@ flowchart TB
 
 Мой план — вернуться к развитию Vacancy Collector после другого приоритетного проекта, завершить аналитику и подготовить коммерческий сервис. Серверный запуск и многопользовательская эксплуатация потребуют отдельного этапа разработки и проверки.
 
-[Как существующая архитектура поддерживает этот путь →](PRESENTATION.md#service)
+[Как существующая архитектура поддерживает этот путь](PRESENTATION.md#service)
 
 <a id="stack"></a>
 
 ## Технологии
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
 | Часть продукта | Основа |
 |---|---|
 | Backend и данные | Python, FastAPI, PostgreSQL, SQLAlchemy Core, psycopg, Alembic |
 | Интерфейс | React, TypeScript, Vite, виртуализация таблицы |
-| AI | Codex SDK, специализированные задачи, типизированные результаты и проверки |
+| AI | Модельный SDK, специализированные задачи, типизированные результаты и проверки |
 | Исполнение и эксплуатация | Сохранённые задания и попытки, подготовленные очереди, Windows launcher, журналы и мониторинг |
 | Качество разработки | pytest, Vitest, Ruff, Pyright, архитектурные проверки и практическая проверка сценариев |
 
@@ -154,13 +166,13 @@ flowchart TB
 
 ## Мой вклад
 
-**Я создал и развиваю Vacancy Collector как самостоятельный продукт полного цикла с использованием ChatGPT/Codex.** Отправной точкой была личная задача поиска работы; затем я расширил замысел до основы будущего сервиса.
+**Я создал и развиваю Vacancy Collector как самостоятельный продукт полного цикла.** Отправной точкой была личная задача поиска работы; затем я расширил замысел до основы будущего сервиса.
 
 Моя работа охватывает постановку задачи и требования, пользовательские сценарии, модель данных и границы ответственности, организацию реализации с AI-инструментами, проверку изменений и развитие продукта после реального использования. Отдельной частью стали диагностика узких мест, пересмотр ранних решений и переход к более подходящей архитектуре хранения и исполнения.
 
 Этот проект показывает, как я связываю **продуктовую задачу, LLM, обработку данных, Backend, интерфейс и эксплуатацию** в одну работающую систему.
 
-[История разработки и ключевые решения →](PRESENTATION.md#development) · [Command Center — организация разработки с AI](https://github.com/Vkuvalin/command-center-public)
+[История разработки и ключевые решения](PRESENTATION.md#development) | [Command Center — организация разработки с AI](https://github.com/Vkuvalin/command-center-public)
 
 <a id="status"></a>
 
@@ -176,4 +188,4 @@ flowchart TB
 
 На собеседовании могу показать рабочий сценарий и объяснить принятые продуктовые и инженерные решения. Этот репозиторий содержит публичную презентацию; исходный код и внутренняя документация проекта остаются приватными.
 
-[Демонстрация →](DEMO.md) · [Продукт и архитектура →](PRESENTATION.md) · [К началу ↑](#top)
+[Демонстрация](DEMO.md) | [Продукт и архитектура](PRESENTATION.md) | [К началу ↑](#top)
